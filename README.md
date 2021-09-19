@@ -6,7 +6,7 @@ npm start
 
 # 配置
 
-config文件
+参照config文件
 
 # 测试
 
