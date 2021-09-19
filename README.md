@@ -1,15 +1,22 @@
-# anyScript
----
-home: true
-heroImage: /favicon.ico
-actionText: 快速上手 →
-actionLink: /guide/
-features:
-- title: 简洁至上
-  details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-- title: Vue驱动
-  details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-- title: 高性能
-  details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
-footer: MIT Licensed | Copyright © 2018-present xxxxxx
----
+# 用于获取微信JS-SDK签名
+
+# 运行
+npm start
+
+
+# 配置
+
+config文件
+
+# 测试
+
+http://127.0.0.1:3000/test
+
+# 签名
+
+http://127.0.0.1:3000/sign
+
+
+# 参考文档
+
+https://developers.weixin.qq.com/doc/offiaccount/OA_Web_Apps/JS-SDK.html#62
